@@ -1,4 +1,4 @@
-# si Akundip
+# Si AKUNDIP
 Merupakan sebuah sistem akuntansi yang digunakan untuk melakukan pencatatan keuangan serta dapat menghasilkan output berupa laporan keuangan.
 Dibuat untuk menyelesaikan Ujian Akhir Semester Pengkodean dan Pemrograman.
 
